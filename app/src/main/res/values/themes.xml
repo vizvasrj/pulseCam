@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.PulseCam" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
